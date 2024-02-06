@@ -1,0 +1,11 @@
+.container{
+    background-image: url(./s2.jpg);
+    background-size: 0%;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
